@@ -1,0 +1,16 @@
+.dashboard {
+  padding: 1rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+.checkup-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+.checkup-section li {
+  padding: 0.5rem;
+  background: #eef;
+  margin: 0.25rem 0;
+  border-radius: 4px;
+}
+.confirmed { color: green; font-weight: bold; }
+.pending { color: orange; font-weight: bold; }
